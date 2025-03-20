@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -d "path/to/your/file" ]; then
+if [ -d "muhsina" ]; then
     echo "It is a directory."
 else
     echo "It is not a directory."
